@@ -1,0 +1,28 @@
+body {
+    height: 100%;
+    width: 100%;
+    background-color: lightgray;
+}
+
+.header {
+    height: 20vh;
+    width: 100vw;
+    background-color: gray;
+}
+
+.middle {
+    margin-left: auto;
+    margin-right: auto;
+    height: 70vh;
+    width: 70vw;
+    background-color: white;
+}
+
+.bottom {
+    height: 10vh;
+    width: 70vw;
+    background-color: black;
+    margin-left: auto;
+    margin-right: auto;
+    
+}
