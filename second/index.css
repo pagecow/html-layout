@@ -1,0 +1,40 @@
+.header {
+    border-style: solid;
+    height: 30vh;
+    width: 98.5vw;
+    background-color: white;
+}
+
+.purple-rectangle {
+    margin-left: 40px;
+    margin-top: 40px;
+    height: 100px;
+    width: 50px;
+    background-color: rgb(106, 56, 119);
+    display: inline-block;
+}
+
+.green-rectangle {
+    margin-left: 100px;
+    margin-top: 10px;
+    height: 150px;
+    width: 400px;
+    background-color: rgb(22, 103, 22);
+    display: inline-block;
+}
+
+.lightblue-circle {
+    margin-left: 150px;
+    margin-top: 10px;
+    height: 150px;
+    width: 150px;
+    background-color: lightblue;
+    border-radius: 180%;
+    display: inline-block;
+}
+
+body {
+    height: 100vh;
+    width: 100vw;
+    background-color: white;
+}
