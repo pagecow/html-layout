@@ -86,7 +86,9 @@ body {
 
 .words-in-white-box {
     display: inline-block;
-    margin-top: 60px;
+    padding-top: 8vh;
+    padding-left: auto;
+    padding-right: auto; 
 }
 
 h1 {
